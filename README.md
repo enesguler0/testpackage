@@ -3,6 +3,7 @@
 
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/enesguler0/testpackage/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/enesguler0/testpackage/actions/workflows/R-CMD-check.yaml)
+[![Codecov test coverage](https://codecov.io/gh/enesguler0/testpackage/branch/master/graph/badge.svg)](https://app.codecov.io/gh/enesguler0/testpackage?branch=master)
 <!-- badges: end -->
 
 The goal of testpackage is to ...
